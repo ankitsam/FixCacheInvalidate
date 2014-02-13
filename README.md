@@ -1,0 +1,1 @@
+A magento extension which automatically refreshes cache and reindex all error “One or more of the Cache Types are invalidated: Blocks HTML output. Click here to go to Cache Management and refresh cache types.”
